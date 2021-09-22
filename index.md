@@ -1,4 +1,4 @@
-## Welcome to Remzi's GitHub Pages
+## Welcome to RemziGonultas GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pjournal/gh-pages-template/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
